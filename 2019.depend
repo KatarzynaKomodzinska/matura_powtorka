@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1615661402 source:c:\users\root\documents\2019\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	<fstream>
+
